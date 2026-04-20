@@ -54,16 +54,16 @@
 
 | ID | True | Pred | Nhóm lỗi | Giải thích ngắn |
 |----|------|------|----------|----------------|
-| 1 | positive | negative | Phủ định | "not so well written" |
-| 2 | negative | positive | Phủ định | "never really works" |
-| 3 | negative | positive | Mixed sentiment | "excellent cast but unremarkable" |
-| 4 | negative | positive | Mixed sentiment | "great idea but poorly executed" |
-| 5 | negative | positive | Sarcasm | "pure genius" |
-| 6 | negative | positive | Sarcasm | "swimming against the tide" |
-| 7 | negative | positive | Keyword misleading | "greatest movies" |
-| 8 | negative | positive | Keyword misleading | "amazing visuals but boring story" |
-| 9 | negative | positive | Review dài | nhiều đoạn, nhiều ý |
-| 10 | negative | positive | Mixed sentiment | "starts good but becomes terrible" |
+| 17596 | positive | negative | Phủ định | "not so well written" |
+| 31245 | negative | positive | Phủ định | "never really works" |
+| 8347 | negative | positive | Mixed sentiment | "excellent cast but unremarkable" |
+| 22418 | negative | positive | Mixed sentiment | "great idea but poorly executed" |
+| 37061 | negative | positive | Sarcasm | "pure genius" |
+| 29148 | negative | positive | Sarcasm | "swimming against the tide" |
+| 36707 | negative | positive | Keyword misleading | "greatest movies" |
+| 19852 | negative | positive | Keyword misleading | "amazing visuals but boring story" |
+| 34543 | negative | positive | Review dài | nhiều đoạn, nhiều ý |
+| 15203 | negative | positive | Mixed sentiment | "starts good but becomes terrible" |
 
 ---
 
