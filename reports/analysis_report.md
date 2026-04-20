@@ -44,7 +44,9 @@
 |-----|-------------|------------|-------|-------|----------|----------|--------|
 | 1 | cleaned | TF-IDF | LogReg | 1-2 | 0.9068 | 0.9068 | Baseline |
 | 2 | cleaned | TF-IDF | LogReg + replace_number | 1-2 | 0.9064 | 0.9064 | Giảm nhẹ |
-| 3 | cleaned | TF-IDF | Linear SVM | 1-2 | **0.9098** | **0.9098** | Tốt nhất |
+| 3 | cleaned | TF-IDF | LogReg + replace_number + drop_punct | 1-2 | 0.9064 | 0.9064 | Không cải thiện |
+| 4 | cleaned | BoW | LogReg | 1-2 | 0.8954 | 0.8954 | Kém hơn TF-IDF |
+| 5 | cleaned | TF-IDF | Linear SVM | 1-2 | **0.9098** | **0.9098** | Tốt nhất |
 
 ---
 
