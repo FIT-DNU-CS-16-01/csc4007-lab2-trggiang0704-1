@@ -33,9 +33,6 @@
 - **Bạn có thay số bằng `<NUM>` không? Vì sao?**  
   Không. Khi bật `--replace_number`, hiệu năng giảm nhẹ. Các số như “10/10”, “1/10” mang ý nghĩa sentiment rõ ràng nên không nên thay thế.
 
-- **Có bước nào bạn cố tình không làm?**  
-  Không xử lý mạnh như bỏ dấu câu hoặc thay số toàn bộ, vì có thể làm mất tín hiệu cảm xúc.
-
 ---
 
 ## 3. Experiment comparison
